@@ -1,32 +1,7 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hojin535&fontSize=90&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요&fontSize=90&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62"/>
 </p>
 
-
-
-## 🛠️ 사용 기술
-언어
-
-HTML,CSS, 자바스트립트, 자바
-
-**프론트엔드**
-
-리액트, 리코일 ,MUI,Bootstrap
-
-**백엔드**
-
-Node.js, MYSQL
-
-**클라우드**
-
-
-**기타도구**
-
-Jenkins, Git
-
-**공부중**  
-
-타입스크립트, Next.js, Spring Boot
 
 <div align=center><h1>📚 STACKS</h1></div>
 
