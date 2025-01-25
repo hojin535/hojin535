@@ -1,8 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hojin535&fontSize=90&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62"/>
-</p>
-
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
